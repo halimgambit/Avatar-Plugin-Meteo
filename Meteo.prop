@@ -1,0 +1,11 @@
+{
+	"modules": { 
+		"Meteo": {
+			"version": "1.0",
+			"name": "meteo",
+			"cleApi": "c21a75b667d6f7abb81f118dcf8d4611",
+			"rules": ["weather"]
+		}
+	}
+}
+			
